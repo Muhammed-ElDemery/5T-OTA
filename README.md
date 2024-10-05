@@ -4,7 +4,7 @@
   ### 1- ADT Sizing assistant
   ### 2- Xschem
 ## Specs required:
-### Supply voltage: 2V
+### Supply voltage: 1.8V
 ### Open loop DC gain: 34 dB
 ### CMRR: 74 dB
 ### PM: 70 deg
